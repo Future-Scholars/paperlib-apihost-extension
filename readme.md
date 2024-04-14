@@ -12,3 +12,5 @@ http://127.0.0.1:21227/[APIGroup].[service].[method]/?args=[..]
 // For example
 http://127.0.0.1:21227/PLAPI.paperService.load/?args=[""]
 ```
+
+For more API details, please refer to the [API documentation](https://paperlib.app/en/extension-doc/plapi/).

@@ -1,8 +1,9 @@
 {
   "name": "@future-scholars/paperlib-apihost-extension",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Paperlib",
   "description": "This is a API Host for other APPs to communicate with Paperlib.",
+  "homepage": "https://github.com/Future-Scholars/paperlib-apihost-extension",
   "main": "dist/main.js",
   "type": "commonjs",
   "scripts": {
